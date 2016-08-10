@@ -46,7 +46,7 @@ namespace PokerHandShowdown
                             winningPlayer = player;
                             tiedPlayers.Clear();
                         }
-                        else if (currentPlayerRank.Hand == highestPlayerRank.Hand)
+                        else if (currentPlayerRank.Hand.Equals(highestPlayerRank.Hand))
                         {
                             if (!tiedPlayers.Contains(winningPlayer))
                             {
