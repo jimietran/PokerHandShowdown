@@ -1,0 +1,8 @@
+E:\Users\Jimie\Documents\Visual Studio 2015\Projects\PokerHandShowdown\PokerHandShowdownTests\bin\Debug\PokerHandShowdownTests.dll
+E:\Users\Jimie\Documents\Visual Studio 2015\Projects\PokerHandShowdown\PokerHandShowdownTests\bin\Debug\PokerHandShowdownTests.pdb
+E:\Users\Jimie\Documents\Visual Studio 2015\Projects\PokerHandShowdown\PokerHandShowdownTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Users\Jimie\Documents\Visual Studio 2015\Projects\PokerHandShowdown\PokerHandShowdownTests\bin\Debug\PokerHandShowdown.exe
+E:\Users\Jimie\Documents\Visual Studio 2015\Projects\PokerHandShowdown\PokerHandShowdownTests\bin\Debug\PokerHandShowdown.pdb
+E:\Users\Jimie\Documents\Visual Studio 2015\Projects\PokerHandShowdown\PokerHandShowdownTests\obj\Debug\PokerHandShowdownTests.csprojResolveAssemblyReference.cache
+E:\Users\Jimie\Documents\Visual Studio 2015\Projects\PokerHandShowdown\PokerHandShowdownTests\obj\Debug\PokerHandShowdownTests.dll
+E:\Users\Jimie\Documents\Visual Studio 2015\Projects\PokerHandShowdown\PokerHandShowdownTests\obj\Debug\PokerHandShowdownTests.pdb

@@ -1,0 +1,5 @@
+e:\users\jimie\documents\visual studio 2015\Projects\PokerHandShowdown\PokerHandShowdown\bin\Debug\PokerHandShowdown.pdb
+e:\users\jimie\documents\visual studio 2015\Projects\PokerHandShowdown\PokerHandShowdown\obj\Debug\PokerHandShowdown.pdb
+e:\users\jimie\documents\visual studio 2015\Projects\PokerHandShowdown\PokerHandShowdown\bin\Debug\PokerHandShowdown.exe
+e:\users\jimie\documents\visual studio 2015\Projects\PokerHandShowdown\PokerHandShowdown\obj\Debug\PokerHandShowdown.exe
+e:\users\jimie\documents\visual studio 2015\Projects\PokerHandShowdown\PokerHandShowdown\obj\Debug\PokerHandShowdown.csprojResolveAssemblyReference.cache
