@@ -145,7 +145,7 @@ namespace PokerHandShowdown
                 {
                     successfulMatch = true;
                 }
-                else if (matchCount > desiredCardMatches)
+                else if (matchCount < desiredCardMatches)
                 {
                     successfulMatch = false;
                 }
